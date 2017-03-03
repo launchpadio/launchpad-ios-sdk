@@ -32,6 +32,9 @@ completionHandler(UIBackgroundFetchResultNoData);
 }
 ```
 
+### Enable Push Notifications
+Go into your project settings and find your project under Targets. Select capabilities and turn on Push Notifications.
+
 ### Register for Push Notifications
 
 You'll also need to register for push notifications with iOS. When you do so, iOS will ask your users for permission and enable the ability to receive notifications to that device.
